@@ -4,7 +4,7 @@ This project focuses on classifying weather conditions from images into four cat
 
 ---
 
-## Sample Model; predictions
+## Sample Model predictions
 
 ![Model predictions](screenshots/output.png)
 
@@ -105,4 +105,5 @@ pip install -r requirements.txt
 
 # Run the notebook
 jupyter notebook Weather_Classification.ipynb
+
 
