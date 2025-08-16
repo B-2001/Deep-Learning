@@ -7,6 +7,12 @@ This project aims to classify audio files into one of 10 music genres using deep
 
 ---
 
+## Result
+
+![Model Result](screenshots/output.png)
+
+---
+
 ## 🎯 Problem Statement
 
 Classify 30-second `.wav` audio clips into one of the following 10 genres:
@@ -93,5 +99,6 @@ The model performs consistently well across training and validation, demonstrati
 * Try more complex models (ResNet, CRNN)
 * Implement audio augmentation (pitch shift, time stretch)
 * Deploy as a web app for real-time genre classification
+
 
 ---
